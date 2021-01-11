@@ -1,7 +1,7 @@
 {
   "name": "learning-react-graphql-by-netninja",
   "version": "1.0.0",
-  "description": "",
+  "description": "A repo for me learning React & GraphQL from the awesome Net Ninja",
   "scripts": {
     "start": "concurrently \"nodemon server/app \" \"npm run --prefix client start\"",
     "test": "echo \"Error: no test specified\" && exit 1"
